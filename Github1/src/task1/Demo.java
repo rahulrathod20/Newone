@@ -9,6 +9,10 @@ public class Demo
       {     
 	System.out.println("hi");
        }
+        public void m2()
+      {     
+	System.out.println("hi");
+       }
 
 	public static void main(String[] args) {
 		
